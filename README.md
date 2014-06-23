@@ -10,7 +10,6 @@ The Bitcoin Orange is PMS 130. Please use official Pantone Matching System swatc
 ###Color Bridge Matches
 
 ####sRGB
-
 | Red | Green | Blue |
 |:---:|:-----:|:----:|
 | 242 |  169  |   0  |
@@ -19,24 +18,39 @@ The Bitcoin Orange is PMS 130. Please use official Pantone Matching System swatc
 `#F2A900`
 
 ####CMYK
-
 | Cyan | Magenta | Yellow | Key (Black) |
 |:----:|:-------:|:------:|:-----------:|
 |  0   |   32    |  100   |      0      |
 
 
-##License
+##Bitcoin Logo
 
+**Dark logo** (for use on light backgrounds): <br>
+RGB: [png](/bitcoin-logo-dark.png), [svg](/bitcoin-logo-dark.svg) <br>
+CMYK: [eps](/bitcoin-logo-dark.eps), [ai](/bitcoin-logo-dark.ai) <br>
+
+**Light logo** (for use on dark backgrounds): <br>
+RGB: [png](/bitcoin-logo-light.png), [svg](/bitcoin-logo-light.svg) <br>
+CMYK: [eps](/bitcoin-logo-light.eps), [ai](/bitcoin-logo-light.ai) <br>
+
+![Bitcoin Logo](/bitcoin-logo-dark.png "Bitcoin Logo")
+
+##Bitcoin Icon
+RGB: [png](/bitcoin.png), [svg](/bitcoin.svg) <br>
+CMYK: [eps](/bitcoin.eps), [ai](/bitcoin.ai)
+
+![Bitcoin Icon](/bitcoin.png "Bitcoin Icon")
+
+##License
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
   <a rel="license"
      href="http://creativecommons.org/publicdomain/zero/1.0/">
     <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
   </a>
-
-
+  <br />
   To the extent possible under law,
   <a rel="dct:publisher"
-     href="https://github.com/bitpay/bitcoin-brand">
+     href="https://github.com/bitpay/">
     <span property="dct:title">BitPay, Inc.</span></a>
   has waived all copyright and related or neighboring rights to
   <span property="dct:title">bitcoin-brand</span>.
