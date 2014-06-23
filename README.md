@@ -1,7 +1,11 @@
 Bitcoin Brand
 ============
 
-This repository contains branding assets for the Bitcoin digital currency.
+Bitcoin is an innovative, digital currency and payment system that makes transacting online faster, easier, and safer.
+
+Bitcoin protects consumers from identity theft, makes international banking more efficient and accessible, reduces transaction costs, and elliminates the risk of payment fraud.
+
+For more information, please visit [bitcoin.org](https://bitcoin.org/).
 
 ##Bitcoin Orange
 
@@ -37,7 +41,7 @@ CMYK: [eps](/bitcoin-logo-light.eps), [ai](/bitcoin-logo-light.ai) <br>
 
 ##Bitcoin Icon
 RGB: [png](/bitcoin.png), [svg](/bitcoin.svg) <br>
-CMYK: [eps](/bitcoin.eps), [ai](/bitcoin.ai)
+CMYK: [pdf](/bitcoin.pdf), [eps](/bitcoin.eps), [ai](/bitcoin.ai)
 
 ![Bitcoin Icon](/bitcoin.png "Bitcoin Icon")
 
