@@ -7,6 +7,18 @@ Bitcoin protects consumers from identity theft, makes international banking more
 
 For more information, please visit [bitcoin.org](https://bitcoin.org/).
 
+##Bitcoin
+
+When referring to the payment system, **Bitcoin** is written with the `B` capitalized. In code – or when referring to units of the currency – **bitcoin** is all lowercase.
+
+- ✓ **Bitcoin** (the system)
+- ✓ **bitcoin** (currency units)
+- ✓ **`bitcoin`** (code)
+- × *BitCoin*
+- × *Bit-coin*
+- × *Bit coin*
+- × *bitCoin*
+
 ##Bitcoin Orange
 
 The Bitcoin Orange is PMS 130. Please use official Pantone Matching System swatches where available.
