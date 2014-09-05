@@ -3,7 +3,7 @@ Bitcoin Brand
 
 Bitcoin is an innovative, digital currency and payment system that makes transacting online faster, easier, and safer.
 
-Bitcoin protects consumers from identity theft, makes international banking more efficient and accessible, reduces transaction costs, and elliminates the risk of payment fraud.
+Bitcoin protects consumers from identity theft, makes international banking more efficient and accessible, reduces transaction costs, and eliminates the risk of payment fraud.
 
 For more information, please visit [bitcoin.org](https://bitcoin.org/).
 
