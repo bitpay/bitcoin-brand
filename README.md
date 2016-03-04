@@ -21,22 +21,22 @@ When referring to the payment system, **Bitcoin** is written with the `B` capita
 
 ##Bitcoin Orange
 
-The Bitcoin Orange is PMS 716. Please use official Pantone Matching System swatches where available.
+The Bitcoin Orange is PMS 138. Please use official Pantone Matching System swatches where available.
 
 ###Color Bridge Matches
 
 ####sRGB
 | Red | Green | Blue |
 |:---:|:-----:|:----:|
-| 239  |  154  |   52  |
+| 251  |  161  |   54  |
 
 #####Hex
-`#EE9A34`
+`#FBA136`
 
 ####CMYK
 | Cyan | Magenta | Yellow | Key (Black) |
 |:----:|:-------:|:------:|:-----------:|
-|  4   |   45    |  91   |      0      |
+|  0   |   44    |  90   |      0      |
 
 
 ##Bitcoin Logo
