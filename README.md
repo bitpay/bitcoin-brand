@@ -28,15 +28,15 @@ The Bitcoin Orange is PMS 138. Please use official Pantone Matching System swatc
 ####sRGB
 | Red | Green | Blue |
 |:---:|:-----:|:----:|
-| 252  |  160  |   49  |
+| 248  |  174  |   42  |
 
 #####Hex
-`#FCA031`
+`#F8AE2A`
 
 ####CMYK
 | Cyan | Magenta | Yellow | Key (Black) |
 |:----:|:-------:|:------:|:-----------:|
-|  0   |   44    |  90   |      0      |
+|  0   |   32    |  89   |      4      |
 
 
 ##Bitcoin Logo
