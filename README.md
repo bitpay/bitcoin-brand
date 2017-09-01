@@ -21,39 +21,39 @@ When referring to the payment system, **Bitcoin** is written with the `B` capita
 
 ##Bitcoin Orange
 
-The Bitcoin Orange is PMS 130. Please use official Pantone Matching System swatches where available.
+The Bitcoin Orange is PMS 138. Please use official Pantone Matching System swatches where available.
 
 ###Color Bridge Matches
 
 ####sRGB
 | Red | Green | Blue |
 |:---:|:-----:|:----:|
-| 242 |  169  |   0  |
+| 248  |  174  |   42  |
 
 #####Hex
-`#F2A900`
+`#F8AE2A`
 
 ####CMYK
 | Cyan | Magenta | Yellow | Key (Black) |
 |:----:|:-------:|:------:|:-----------:|
-|  0   |   32    |  100   |      0      |
+|  0   |   32    |  89   |      4      |
 
 
 ##Bitcoin Logo
 
 **Dark logo** (for use on light backgrounds): <br>
 RGB: [png](/bitcoin-logo-dark.png), [svg](/bitcoin-logo-dark.svg) <br>
-CMYK: [eps](/bitcoin-logo-dark.eps), [ai](/bitcoin-logo-dark.ai) <br>
+
 
 **Light logo** (for use on dark backgrounds): <br>
 RGB: [png](/bitcoin-logo-light.png), [svg](/bitcoin-logo-light.svg) <br>
-CMYK: [eps](/bitcoin-logo-light.eps), [ai](/bitcoin-logo-light.ai) <br>
+
 
 ![Bitcoin Logo](/bitcoin-logo-dark.png "Bitcoin Logo")
 
 ##Bitcoin Icon
 RGB: [png](/bitcoin.png), [svg](/bitcoin.svg) <br>
-CMYK: [pdf](/bitcoin.pdf), [eps](/bitcoin.eps), [ai](/bitcoin.ai)
+
 
 ![Bitcoin Icon](/bitcoin.png "Bitcoin Icon")
 
